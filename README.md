@@ -12,7 +12,7 @@ Experimental parameters can be configured in the run.py file, and training can b
    pip install -r requirements.txt
 ```
 
-2. Prepare Data. You can obtain the well pre-processed datasets from [Google Drive](https://drive.google.com/file/d/1xIuOoNFcvllsp3VQE5ZxulZqullEdB5L/view?usp=drive_link) or [Baidu Drive](https://pan.baidu.com/s/17g_HBZzJ-e_WRTpx7-6qlQ?pwd=3nvc). Then place the downloaded data in the folder `./dataset`
+2. Prepare Data. You can obtain the well pre-processed datasets from [Google Drive](https://drive.google.com/file/d/1xIuOoNFcvllsp3VQE5ZxulZqullEdB5L/view?usp=drive_link) or [Baidu Drive](https://pan.baidu.com/s/1hoW4dCq8SFGp0dCSD6kc-A?pwd=gea8). Then place the downloaded data in the folder `./dataset`
 
 
 
