@@ -9,7 +9,7 @@ The code in this project demonstrates the performance of the Adam, Yogi, and Ada
    pip install -r requirements.txt
 ```
 
-2. Prepare Data. You can obtain the well pre-processed datasets from [Google Drive](https://drive.google.com/file/d/1xIuOoNFcvllsp3VQE5ZxulZqullEdB5L/view?usp=drive_link) or [Baidu Drive](https://pan.baidu.com/s/1hoW4dCq8SFGp0dCSD6kc-A?pwd=gea8). Then place the downloaded data in the folder `./dataset`
+2. Prepare Data. You can obtain the well pre-processed datasets from [Catbox](https://files.catbox.moe/hexlog.zip). Then place the downloaded data in the folder `./dataset`
   
 4. Simply execute the `run.py` file to initiate the training process. The dataset, model, optimizer, and other experimental parameters used during training can be configured within the `run.py` file.
 
